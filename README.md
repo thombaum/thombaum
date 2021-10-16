@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Olá, Sou Thomas Baumgardt iniciante em programação.
 <!--
 **thombaum/thombaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
