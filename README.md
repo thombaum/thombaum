@@ -1,5 +1,6 @@
 ### Olá, Sou Thomas Baumgardt iniciante em programação.
 💼 Trabalho no Departamento de Patrimônio do Tribunal de Justiça.
+<br>
 📚Faço Tecnólogo em Sistemas para Internet no IFRS.
 <!--
 **thombaum/thombaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
