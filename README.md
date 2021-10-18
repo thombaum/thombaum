@@ -1,4 +1,7 @@
-### Olá, Sou Thomas Baumgardt iniciante em programação.
+### Olá, Sou Thomas Baumgardt
+<hr>
+## Iniciante em programação💻
+<br>
 💼 Trabalho no Departamento de Patrimônio do Tribunal de Justiça.
 <br>
 📚Faço Tecnólogo em Sistemas para Internet no IFRS.
