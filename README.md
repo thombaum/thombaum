@@ -2,4 +2,4 @@
 <hr>
 ## Front-end 💻
 <br>
-📚Faço Tecnólogo em Sistemas para Internet no IFRS.
+📚Faço Curso de Full Stack Developer na targettrast
